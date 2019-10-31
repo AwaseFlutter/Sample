@@ -1,16 +1,10 @@
 # sample_app
 
-A new Flutter application.
+「Flutter モバイルアプリ開発バイブル Chapter6 サンプルアプリ」の実装サンプルです。
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+このプロジェクトを実際に動かすには、Firebaseへの登録が必要となります。
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+詳しくは、こちらを参照してください
+https://firebase.google.com/docs/flutter/setup?hl=ja
